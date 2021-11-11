@@ -26,7 +26,7 @@
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/animekaizoku/saitamarobot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/animekaizoku/saitamarobot" /> </a>
+<a href="https://github.com/kari-36/ElizaRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/kari-36/elizarobot" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
